@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="css/audience.css" />
+    <title>F2 - AdGorilla</title>
+  </head>
+  <body>
+    <div id="slide-container">
+      <div id="slide-left">
+        <div class="slide-left-decoration"></div>
+        <div class="slide-left-content">
+          <img alt="logo" src="./assets/logo.png" />
+          <h1>FIND YOU AUDIENCE</h1>
+          <p>
+            We leverage hundreds of data points to locate and identify where
+            your target audience is online. The results provide a clear map of
+            where to place your ad.
+          </p>
+        </div>
+        <div class="slide-left-footer">
+          <div class="footer-block">
+            <h3>5</h3>
+          </div>
+          <span>Janurary 2022</span>
+        </div>
+      </div>
+
+      <!-- SVG Graphs go here -->
+      <div id="slide-content">
+        <div id="audience-chart"></div>
+        <div id="website-chart">
+          <div class="title">
+            <h2>TOP WEBSITES</h2>
+            <ul class="title-icons">
+              <li>
+                <img class="icon" src="./assets/cog.svg" />
+                <span>INDUSTRY</span>
+              </li>
+              <li>
+                <img class="icon" src="./assets/bars.svg" />
+                <span>AUDIENCE INTERESTS</span>
+              </li>
+              <li>
+                <img class="icon" src="./assets/people.svg" /><span
+                  >DEMOGRAPHIC</span
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="website-list">
+            <ul></ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script type="module" src="js/index.js"></script>
+  </body>
+</html>

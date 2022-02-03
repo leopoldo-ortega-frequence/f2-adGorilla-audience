@@ -1,0 +1,93 @@
+[
+    {
+    "interest": "weather",
+    "industry": "10",
+    "audience": "40",
+    "size": "6"
+},
+    {
+    "interest": "business & industrial",
+    "industry": "20",
+    "audience": "20",
+    "size":"6"
+},
+    {
+    "interest": "reference",
+    "industry": "37",
+    "audience": "37",
+    "size": "8"
+},
+    {
+    "interest": "science",
+    "industry": "27",
+    "audience": "70",
+    "size":"3"
+},
+    {
+    "interest": "finance",
+    "industry": "35",
+    "audience": "15",
+    "size":"3"
+},
+    {
+    "interest": "online communities",
+    "industry": "50",
+    "audience": "25",
+    "size":"5"
+},
+    {
+    "interest": "engineering & technology",
+    "industry": "45",
+    "audience": "74",
+    "size":"4"
+},
+    {
+    "interest": "computer & electronics",
+    "industry": "55",
+    "audience": "60",
+    "size":"5"
+},
+    {
+    "interest": "arts & entertainment",
+    "industry": "70",
+    "audience": "68",
+    "size":"9"
+},
+    {
+    "interest": "books & literature",
+    "industry": "80",
+    "audience": "40",
+    "size":"6"
+},
+    {
+    "interest": "Autos & vehicles",
+    "industry": "67",
+    "audience": "38",
+    "size":"4"
+},
+    {
+    "interest": "Education",
+    "industry": "50",
+    "audience": "50",
+    "size":"4"
+},
+    {
+    "interest": "fitness",
+    "industry": "15",
+    "audience": "60",
+    "size":"5"
+},
+    {
+    "interest": "gardening",
+    "industry": "70",
+    "audience": "80",
+    "size":"4"
+},
+    {
+    "interest": "Beauty & Fitness",
+    "industry": "60",
+    "audience": "90",
+    "size":"3"
+}
+
+]
